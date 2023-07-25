@@ -24,4 +24,4 @@ final_password = list(password)
 random.shuffle(final_password)
 final_password = "".join(final_password)
 
-print("Your suggested password is: " + final_password)
+print("\nYour suggested password is: " + final_password)
